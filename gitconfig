@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = federicadivincenzo5@gmail.com
+	name = Federica Di Vincenzo
